@@ -1,0 +1,2 @@
+rootProject.name = "HfStopWatch"
+include ':app'

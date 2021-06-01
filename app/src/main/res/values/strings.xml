@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HfStopWatch</string>
+
+    <string name="stop">Стопэ</string>
+    <string name="start">Похнали</string>
+    <string name="reset">Обнулись</string>
+</resources>
